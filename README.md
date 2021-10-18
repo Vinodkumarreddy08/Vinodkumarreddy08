@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vinodkumarreddy08
-- 👀 I’m interested in cybersecurity,clip designing
+- 👀 I’m interested in cybersecurity,clip designing,Machine learning,IOT
 - 🌱 I’m currently learning ENGINEERING,ECE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
